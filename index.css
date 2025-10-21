@@ -1,0 +1,112 @@
+*{margin: 0; padding: 0; text-decoration: none;
+color: rgba(0, 0, 0, 0.898);}
+
+.material-symbols-outlined {font-size: large;
+}
+
+.firstd {display: flex;
+flex-direction: row; 
+justify-content: space-between;}
+.sd {display: flex;
+justify-content: start;}
+.sd h1 {margin: 0px 2px 30px 2px;
+font-size: 35px;}
+#material-symbols-outlined1 {margin-top: 10px;
+     font-size: x-large;
+}
+#material-symbols-outlined2 { position: relative; 
+    left: 28px; margin-top: 15px;}
+.sd input {margin: 10px 0px 0px 0px ;
+     border: 1px solid black;
+border-radius: 15px; height: 30px;
+padding: 15px;}
+#user {height: 30px ; width: 30px;
+     background-color: rgba(135, 78, 187, 0.936);
+    border-radius: 100%;
+color: white; 
+text-align: center;
+font-size: large;
+margin: 10px 20px 0px 20px
+}
+
+#right {margin: 10px 30px 0px 0px;}
+header {border: 0px solid black;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.919);
+    height: 50px;margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: white;
+    z-index: 5004;
+    
+}
+#Md2 { width: 1000px; }
+#Md3 { width: 450px;
+position: sticky;
+  top: 50px;
+  border: 0px solid rgba(0, 0, 0, 0.124);
+  height: fit-content;
+  align-self: flex-start;
+  padding: 10px;
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.135);
+}
+#Md1 { width: 350px; border: 0px solid black;
+    padding: 0;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.145);
+} 
+.position {position: sticky;
+top: 70px;
+background-color: white;
+padding: 0;
+
+}
+
+#position3 {position: sticky;
+top: 50px;
+background-color: white;
+
+}
+#M1 {display: flex; }
+.img1 {border-radius: 100%;
+     margin: 40px 0px 0px 30px; height: 30px ;
+      width: 30px;}
+.icon {display: flex; 
+justify-content: space-between;}
+.icon1 {display: flex; }
+.icon2 {display: flex; }
+ section {display: flex; 
+    margin: 20px 0px 10px 25px;}
+ .firstsi {height: 100px; width: 140px;
+     margin: 0px 0px 0px 30px;}
+ .sd1 {width: 400px;}
+ #positionh {position: fixed;
+top: 0px;
+background-color: white;
+width: 100%;z-index: 500;}
+nav {margin: 20px;}
+
+#nav {position: fixed; 
+    background-color: white; top: 70px;
+width: 100%;
+}
+.ma {margin: 30px;}
+#ma {display: flex; margin: 20px}
+#ma div{ margin: 10px}
+.rt {display: flex;}
+.rt div {margin: 10px;
+border: 0px solid black;
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.213);
+border-radius: 20px;
+padding: 8px;
+background-color: rgba(0, 0, 0, 0.049);}
+.follow {display: flex;
+margin: 5%;}
+.img {border-radius: 100%;
+     height: 30px ;
+      width: 30px;
+    margin: 0px 5px ;}
+    .fw {display: flex;
+    justify-content: space-between;}
+    .followb {border: 1px solid black;
+    border-radius: 30px;
+padding: 8px;
+margin-top: 20pxw456}
